@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1584352493,,"wq"
+|2,0,1584353401,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,22 +25,38 @@
 # Registers:
 
 # File marks:
-'0  4  26  ~/abcd
-|4,48,4,26,1584352493,"~/abcd"
-'1  7  1  ~/parveennew
-|4,49,7,1,1584352226,"~/parveennew"
-'2  3  22  ~/pky.md
-|4,50,3,22,1584351733,"~/pky.md"
+'0  1  10  ~/nahar
+|4,48,1,10,1584353401,"~/nahar"
+'1  4  26  ~/abcd
+|4,49,4,26,1584352493,"~/abcd"
+'2  7  1  ~/parveennew
+|4,50,7,1,1584352226,"~/parveennew"
+'3  3  22  ~/pky.md
+|4,51,3,22,1584351733,"~/pky.md"
 
 # Jumplist (newest first):
+-'  1  10  ~/nahar
+|4,39,1,10,1584353401,"~/nahar"
 -'  4  26  ~/abcd
 |4,39,4,26,1584352493,"~/abcd"
+-'  4  26  ~/abcd
+|4,39,4,26,1584352493,"~/abcd"
+-'  1  0  ~/abcd
+|4,39,1,0,1584352441,"~/abcd"
 -'  1  0  ~/abcd
 |4,39,1,0,1584352441,"~/abcd"
 -'  7  1  ~/parveennew
 |4,39,7,1,1584352226,"~/parveennew"
 -'  7  1  ~/parveennew
 |4,39,7,1,1584352226,"~/parveennew"
+-'  7  1  ~/parveennew
+|4,39,7,1,1584352226,"~/parveennew"
+-'  7  1  ~/parveennew
+|4,39,7,1,1584352226,"~/parveennew"
+-'  1  0  ~/parveennew
+|4,39,1,0,1584352218,"~/parveennew"
+-'  1  0  ~/parveennew
+|4,39,1,0,1584352218,"~/parveennew"
 -'  1  0  ~/parveennew
 |4,39,1,0,1584352218,"~/parveennew"
 -'  1  0  ~/parveennew
@@ -53,6 +69,22 @@
 |4,39,3,22,1584351733,"~/pky.md"
 -'  3  22  ~/pky.md
 |4,39,3,22,1584351733,"~/pky.md"
+-'  3  22  ~/pky.md
+|4,39,3,22,1584351733,"~/pky.md"
+-'  3  22  ~/pky.md
+|4,39,3,22,1584351733,"~/pky.md"
+-'  3  22  ~/pky.md
+|4,39,3,22,1584351733,"~/pky.md"
+-'  3  22  ~/pky.md
+|4,39,3,22,1584351733,"~/pky.md"
+-'  1  0  ~/pky.md
+|4,39,1,0,1584351705,"~/pky.md"
+-'  1  0  ~/pky.md
+|4,39,1,0,1584351705,"~/pky.md"
+-'  1  0  ~/pky.md
+|4,39,1,0,1584351705,"~/pky.md"
+-'  1  0  ~/pky.md
+|4,39,1,0,1584351705,"~/pky.md"
 -'  1  0  ~/pky.md
 |4,39,1,0,1584351705,"~/pky.md"
 -'  1  0  ~/pky.md
@@ -63,6 +95,13 @@
 |4,39,1,0,1584351705,"~/pky.md"
 
 # History of marks within files (newest to oldest):
+
+> ~/nahar
+	*	1584353399	0
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
 
 > ~/abcd
 	*	1584352491	0
